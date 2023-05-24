@@ -1,6 +1,9 @@
 # Firebase-Auth
 Firebase-Auth is a React app that allows users to sign in with their mobile number using one-time password (OTP) verification provided by Firebase Authentication.
 
+## Live Demo
+https://firebase-auth-psi.vercel.app/
+
 ## Features
 - User can enter their mobile number and request an OTP code via SMS.
 - User can enter the OTP code and sign in to the app.
